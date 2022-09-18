@@ -1,15 +1,15 @@
-# todo list 
+# TODO List 
 This is the checklist of task to make a good readme:
 
-### making a good readme
+### Making a good readme
 
 
- - [x]  project title
- - [ ]  description
- - [x]  getting started
- - [ ]  prerequisites
- - [x]  installing
- - [ ]  deployment
- - [x]  built whit
- - [ ]  autors
- - [x] license
+   - [x]  Project title
+     - [x]  Description
+     - [x]  Getting started
+       - [x]  Prerequisites
+       - [x]  Installing
+     - [x]  Deployment
+     - [x]  built whit
+     - [x]  autors
+     - [x] license
