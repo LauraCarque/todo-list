@@ -28,4 +28,22 @@ And repeat
 
 End with an example of getting some date put of the system ir using it for a little demo
 
+# deployment
+add additional notes to deploy this on a live system
+# built with
+ - [ContributorCovenant]() - Used for 
+ the code of conduct
+ - [CreativeCommons]() - used to choose 
+ the license 
+ # authors
+ -  **Programmer A** - provided READMEtemplate- 
+ [profile A](https://github.com/profile A)
+ - **programer B** -provided READMEtemplate- 
+ [profile B](https://github.com/profile B)
 
+ see also the list of
+[contributor]()
+who participated in this project
+#License
+this project is licensedunder the [CCo 1.o Universal]()
+creative commons license -see the [LICENSE.md]() file for details 
